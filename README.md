@@ -20,4 +20,5 @@ program according to priority, I have added a factor of 100 to the profit of ite
 priority. This is because, we always need to strike the right balance between priority and
 over all cost of the whole journey
 
+**Map for logistics:** 
 ![This is the map on which the Hyperloop network works](Map.png)
